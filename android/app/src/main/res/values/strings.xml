@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CalculatorWithDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IT4875</string>
+    <string name="nav_header_subtitle">Mobile Application Programing</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_standard_cal">Standard Calculator</string>
+
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="_7">7</string>
+    <string name="division">/</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="mul">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sub">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="add">+</string>
+    <string name="inverse">+/-</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+
+    <string name="from">From</string>
+    <string name="enter_here">Enter here</string>
+    <string name="to">To</string>
+    <string name="handle">Handle</string>
+    <string-array name="array">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_converter">Number Converter</string>
+</resources>
